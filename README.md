@@ -3,10 +3,10 @@
 
 
 **packages are needed**
-tensorflow    2.4.1
-Python        3.8.0
-matplotlib
-numpy
-pandas
-scikit-learn
-Jupyter Notebook
+- tensorflow    2.4.1
+- Python        3.8.0
+- matplotlib
+- numpy
+- pandas
+- scikit-learn
+- Jupyter Notebook
