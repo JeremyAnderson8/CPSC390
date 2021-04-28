@@ -2,8 +2,8 @@
 *Goal: learn how to use deep learning models for image classification.*
 
 **Packages are needed**
-- tensorflow       version:2.4.1
-- Python           version:3.8.0
+- tensorflow      &nbsp;&nbsp;&nbsp; version:2.4.1
+- Python           &nbsp;&nbsp;&nbsp; version:3.8.0
 - matplotlib
 - numpy
 - pandas
