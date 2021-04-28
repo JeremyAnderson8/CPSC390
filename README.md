@@ -1,5 +1,5 @@
-##Project: COVID-19 diagnosis based on Chest X-ray images
-Goal: learn how to use deep learning models for image classification.
+### Project: COVID-19 diagnosis based on Chest X-ray images
+*Goal: learn how to use deep learning models for image classification.*
 
 
 **packages are needed**
