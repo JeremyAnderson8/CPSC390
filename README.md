@@ -21,4 +21,6 @@ If you plan to use python:
 
 <ol>
   
-**Please submit your report individually (suggest to submit your Jupyter notebook page with results as a pdf).**
+  
+  
+**Please submit your report (Jupyter notebook page with results as a pdf) individually.**
