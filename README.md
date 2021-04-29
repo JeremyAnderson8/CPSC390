@@ -24,4 +24,4 @@ If you plan to use python:
 
   
 \
-**Please submit your report (Jupyter notebook page with results as a pdf) individually.**
+**Please submit your report (Jupyter notebook page with results as a pdf) to canvas individually.**
