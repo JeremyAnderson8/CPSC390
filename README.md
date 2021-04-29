@@ -21,6 +21,6 @@ If you plan to use python:
 
 <ol>
   
-  \
+
   
 <span style="color:red"> **Please submit your report (Jupyter notebook page with results as a pdf) individually.**</span>
