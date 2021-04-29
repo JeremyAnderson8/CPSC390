@@ -23,4 +23,5 @@ If you plan to use python:
   
 
   
-<span style="color:red"> **Please submit your report (Jupyter notebook page with results as a pdf) individually.**</span>
+\
+**Please submit your report (Jupyter notebook page with results as a pdf) individually.**
