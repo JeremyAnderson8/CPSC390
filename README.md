@@ -1,7 +1,7 @@
 ### Project: COVID-19 diagnosis based on Chest X-ray images
 *Goal: learn how to use deep learning models for image classification.*
 
-What are you going to do?  
+*What are you going to do? * 
 If you prefer other languages over python, please download X-ray images and build a machine learning model for COVID-19 classification.  
 If you plan to use python:
 <ol>
@@ -15,7 +15,7 @@ If you plan to use python:
 - scikit-learn
 - Jupyter Notebook
 <li>Step 2: Read and try to understand the code, and then run it, check the performance. 
-<li>Step 3: Try to use some strategies to improve the prediction performance (e.g., adjust batch size, add more layers, data normalization, data augmentation using ImageDataGenerator, etc) 
+<li>Step 3: Try to use some strategies to improve the prediction performance (e.g., adjust batch size, add more layers, data normalization, data augmentation using ImageDataGenerator, early stopping, etc) 
 <li>Step 4: Run your modified code, get the performance metrics.
 <li>Step 5 (optional): visualize class activation maps using Grad-CAM algorithm.
 
